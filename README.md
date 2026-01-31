@@ -6,6 +6,45 @@ Domain: Business Analytics | Performance Management | Executive Reporting
 
 https://github.com/Vijayy16/business-kpi-dashboard/blob/main/business_performance_analysis.ipynb
 
+## Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+  ## Dataset
+The dataset contains product-level business metrics including:
+- Price
+- Units Sold
+- Revenue
+- Marketing Spend
+- Customer Rating
+
+The data is used to analyze correlations and build a revenue prediction model.
+
+## Analysis Performed
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Train-Test Split
+- Linear Regression Modeling
+- Model Evaluation (R², MSE)
+- Business Insights & Limitations
+
+## Key Insights
+- Revenue is positively influenced by units sold and marketing spend
+- The linear model shows a negative R² score due to limited data size
+- Results highlight the importance of data volume for predictive modeling
+
+## How to Run
+1. Clone the repository
+2. Open the Jupyter Notebook
+3. Run all cells from top to bottom
+
+📘 Open the notebook: `business_performance_analysis.ipynb`
+
+
+
 Project Overview
 
 This project focused on designing executive-ready business intelligence dashboards to monitor organizational performance and support strategic decision-making. The objective was to transform raw business data into meaningful KPIs and interactive visualizations that enable leadership to quickly assess performance, identify inefficiencies, and track progress against business goals.
