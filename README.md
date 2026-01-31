@@ -4,6 +4,8 @@ Designed interactive Tableau and Power BI dashboards to track key business KPIs 
 Duration: Jan 2025 – May 2025
 Domain: Business Analytics | Performance Management | Executive Reporting
 
+https://github.com/Vijayy16/business-kpi-dashboard/blob/main/business_performance_analysis.ipynb
+
 Project Overview
 
 This project focused on designing executive-ready business intelligence dashboards to monitor organizational performance and support strategic decision-making. The objective was to transform raw business data into meaningful KPIs and interactive visualizations that enable leadership to quickly assess performance, identify inefficiencies, and track progress against business goals.
